@@ -1,0 +1,30 @@
+body {
+    background-color:rgb(216, 121, 67);
+    display: inline;
+
+}
+#container {
+ background-color: rgb(127, 225, 255);
+ width: 1150px; 
+ height: 1300px;
+ margin-left: 15%; 
+ border-radius: 10%;
+}
+
+ul {
+    display: inline-block;
+    border: 100px;
+    border-color: rgb(127, 215, 251);
+    padding: 20px;
+    margin-top: 5%;
+    border-width: 5px;
+    border-style: solid; 
+    margin-left: 2.2%;  
+}
+
+.salmon {
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-bottom: 10px;
+}
