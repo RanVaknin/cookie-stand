@@ -1,7 +1,6 @@
 body {
     background-color:rgb(216, 121, 67);
     display: inline;
-
 }
 #container {
  background-color: rgb(127, 225, 255);
@@ -19,7 +18,9 @@ ul {
     margin-top: 5%;
     border-width: 5px;
     border-style: solid; 
-    margin-left: 2.2%;  
+    margin-left: 2.2%; 
+    font-family: 'Merriweather', serif;
+    font-size: 13.4px;
 }
 
 .salmon {
@@ -27,4 +28,36 @@ ul {
     margin-left: 15%;
     margin-right: 10%;
     margin-bottom: 10px;
+    font-size: 10px;
 }
+
+
+.nav{
+    background-color: rgb(117, 208, 255);
+    height:65px;
+}
+.nav h3{
+    display:inline-block;
+    margin-left:70px;
+    margin-bottom: 30px;
+    color:black;
+    font-family: 'Crimson Text', serif;
+
+
+}
+#homeButton:hover {
+ background-color:rgb(216, 121, 67);
+ color:  rgb(127, 225, 255);
+
+}
+#salesReportButton:hover {
+    background-color:rgb(216, 121, 67);
+    color:  rgb(127, 225, 255);
+   
+   }
+
+#content h1 p{
+    margin-left: 50px;
+    padding:100px;
+}
+
