@@ -82,3 +82,12 @@ td {
     color:red;
     font-weight: bold;
 }
+
+#names tr{
+    padding:6px;
+    border-color: rgb(22, 22, 133);
+    border-style: dashed;
+    border-width: 1px;
+}
+.floatLeft { width: 50%; float: left; align: inline-block;}
+.floatRight {width: 50%; float: right; align: inline-block;}
