@@ -130,7 +130,11 @@ function handleSubmit(event) {
   renderHeader();
   renderHour();
   renderTotalEachHour();
-
+  
+  event.target.locationId.value = null;
+  event.target.min.value = null;
+  event.target.max.value = null;
+  event.target.avg.value = null;
 }
 
 
