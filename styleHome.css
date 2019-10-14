@@ -1,0 +1,112 @@
+body {
+    background-color:rgb(216, 121, 67);
+    display: inline;
+}
+#container {
+ background-color: rgb(127, 225, 255);
+ width: 1150px; 
+ height: 1300px;
+ margin-left: 15%; 
+ border-radius: 10%;
+
+}
+
+
+ul {
+    display: inline-block;
+    border: 100px;
+    border-color: rgb(127, 215, 251);
+    padding: 20px;
+    margin-top: 5%;
+    border-width: 5px;
+    border-style: solid; 
+    margin-left: 2.2%; 
+    font-family: 'Merriweather', serif;
+    font-size: 13.4px;
+}
+
+.salmon {
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+
+
+.nav{
+    background-color: rgb(117, 208, 255);
+    height:65px;
+}
+.nav h3{
+    display:inline-block;
+    margin-left:70px;
+    margin-bottom: 30px;
+    color:black;
+    font-family: 'Crimson Text', serif;
+
+
+}
+#homeButton:hover {
+ background-color:rgb(216, 121, 67);
+ color:  rgb(127, 225, 255);
+
+}
+#salesReportButton:hover {
+    background-color:rgb(216, 121, 67);
+    color:  rgb(127, 225, 255);
+   
+   }
+
+div#content{
+    margin-left: 115px;
+    margin-top: 55px;
+}
+#gmap_canvas {
+    position: sticky;
+}
+
+
+.total {
+    color:red;
+    font-weight: bold;
+}
+
+#names tr{
+    padding:6px;
+    border-color: rgb(22, 22, 133);
+    border-style: dashed;
+    border-width: 1px;
+}
+.floatLeft { width: 50%; float: left; align: inline-block;}
+.floatRight {width: 50%; float: right; align: inline-block;}
+
+#main {
+margin: 30px 0 0px 50px;
+
+
+}
+
+#main h1{
+    text-align: center;
+    margin-left: -100px;
+}
+
+table img {
+border-radius: 50%;
+display: inline-block; 
+float: left;
+margin-right:15px;
+
+}
+
+table {
+    border-spacing: 20px;
+    width: 104%;
+    
+    
+}
+td{
+    padding: 0 60px 0 0;
+}
+
